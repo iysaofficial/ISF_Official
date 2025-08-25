@@ -11,7 +11,7 @@ const HeroComp = () =>{
                 Join this prestigious Competition and gain an unforgettable experience!</p>                    
                     <br />
                     <div className="hero-btn">  
-                        <Link href="#" target="_blank" className="btn">Close Registration</Link>
+                        <Link href="#" target="_blank" className="btn">Coming Soon 2026</Link>
                         <Link href="https://drive.google.com/file/d/1IyjNGCUDfeQyYlZb-ENDtLev6yKumzDo/view?usp=sharing" className="btn">Guide Book</Link>
                     </div>
                     <br />

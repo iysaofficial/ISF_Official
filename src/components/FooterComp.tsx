@@ -26,8 +26,8 @@ const FooterComp = () => {
                     <ul className="box">
                         <li className="link_name">Information Link</li>
                         <li><Link href="/">Home</Link></li>
-                        <li><Link href="/AboutPage">About</Link></li>
-                        <li><Link href="#contact">Contact</Link></li>
+                        <li><Link href="/about">About</Link></li>
+                        <li><Link href="/#contact">Contact</Link></li>
                         <li><Link href="https://drive.google.com/file/d/1IyjNGCUDfeQyYlZb-ENDtLev6yKumzDo/view?usp=sharing">Guide Book</Link></li>
                         {/* <li><a href="https://iysa.or.id" target="_blank">IYSA Main Website</a></li>
                         <li><a href="https://iysaolympiad.or.id" target="_blank">IYSA Olympiad Main Website</a></li> */}
